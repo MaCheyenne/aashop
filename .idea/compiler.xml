@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aa-common" />
+        <module name="aa-manager-dao" />
+        <module name="aa-manager-interface" />
+        <module name="aa-manager-pojo" />
+        <module name="aa-manager-service" />
+        <module name="aa-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aa-common" target="1.7" />
+      <module name="aa-manager" target="1.7" />
+      <module name="aa-manager-dao" target="1.7" />
+      <module name="aa-manager-interface" target="1.7" />
+      <module name="aa-manager-pojo" target="1.7" />
+      <module name="aa-manager-service" target="1.7" />
+      <module name="aa-manager-web" target="1.7" />
+      <module name="aa-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

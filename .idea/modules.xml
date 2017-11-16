@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aa-common/aa-common.iml" filepath="$PROJECT_DIR$/aa-common/aa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager-dao/aa-manager-dao.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager-dao/aa-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager-interface/aa-manager-interface.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager-interface/aa-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager-pojo/aa-manager-pojo.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager-pojo/aa-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager-service/aa-manager-service.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager-service/aa-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-manager/aa-manager-web/aa-manager-web.iml" filepath="$PROJECT_DIR$/aa-manager/aa-manager-web/aa-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa-parent/aa-parent.iml" filepath="$PROJECT_DIR$/aa-parent/aa-parent.iml" />
+    </modules>
+  </component>
+</project>
